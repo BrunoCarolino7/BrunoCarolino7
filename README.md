@@ -10,7 +10,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" width="457" height="250" alt="coding-time" src="coderman.gif">
     <h1 align="center">Tecnologias usadas</h1>
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,8 +28,7 @@
     </a>
     <a href = "https://www.linkedin.com/in/bruno-carolino-dev/">
       <img width="25" src="linkedin.svg">
-    </a>
-    
+    </a>    
     <a href = "https://www.instagram.com/brunoclopes777/">
       <img width="25" src="instagram.png">
     </a>
