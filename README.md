@@ -1,4 +1,6 @@
-## Fala, pessoal! Bruno aqui!
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=75&duration=1500&pause=1500&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=385&lines=Ol%C3%A1+%3A);Meu+nome+%C3%A9+Bruno%2C+26%2C+dev.;Seja+Bem+Vindo+ao+meu+perfil." alt="Typing SVG" /></a>
+</h1>
 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCarolino7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
