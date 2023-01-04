@@ -4,7 +4,7 @@
 
  <div align="center"> <h3>🧑‍💻 <strong>Breve Descrição</strong></h3></div>
  <div align="center">
- Tenho 26 anos, estudante de Análise e Desenvolvimento de Sistemas.<br> Sou um jovem que gosta muito de estudar, não "só" sobre tecnologia,<br> mas tantos outros temas da vida para descobrir as maravilhas que nos cercam. 
+ Tenho 26 anos, estudante de Análise e Desenvolvimento de Sistemas.<br> Estudante nato!
  
 </div>
 
