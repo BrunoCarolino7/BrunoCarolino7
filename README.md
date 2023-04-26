@@ -11,7 +11,6 @@
 ##
 
 <div><br> 
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCarolino7&layout=compact&langs_count=16&theme=chartreuse-dark"/>
   <div align="center">
     <h1 align="center">Tecnologias usadas</h1>
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
@@ -26,8 +25,6 @@
    </div><br><br>   
    
 <div>
-     <img align="right" width="457" height="250" alt="coding-time" src="coderman.gif"> 
-  <div align="center">
     <h1 align="center">Redes Sociais</h1>
        <a href = "mailto: lopesb073@gmail.com">
       <img width="30" src="gmail.svg">
@@ -42,6 +39,3 @@
    </div><br><br>   
     </div>
    </div><br><br><br><br>
-
-  
-![Snake animation](https://github.com/BrunoCarolino7/BrunoCarolino7/blob/output/github-contribution-grid-snake.svg)
